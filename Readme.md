@@ -23,3 +23,7 @@
 >- Jan. 2017 – Jun. 2017
 >- Exchange student in Geological Sciences                          
 >- *Austin, Texas, United States*
+
+## Research interests
+- Carbon isotope evaluation during volcanic gas decompression
+- Isotope geochemistry / Volcanology / Petrology
