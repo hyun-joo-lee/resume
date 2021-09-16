@@ -1,6 +1,6 @@
 # Hyun Joo Lee
 
-![](https://pangeo.2i2c.cloud/user/hyun-joo-lee/files/resume/capture.JPG?_xsrf=2%7Cdb3e6273%7Cc62b4cef3cc762f2e34ff4f5e6a563f1%7C1631629606)
+![me](capture.JPG)
 
 ## Education
 
@@ -23,6 +23,7 @@
 >- Jan. 2017 – Jun. 2017
 >- Exchange student in Geological Sciences                          
 >- *Austin, Texas, United States*
+
 
 ## Research interests
 - Carbon isotope evaluation during volcanic gas decompression
