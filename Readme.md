@@ -5,7 +5,7 @@
 ## Education
 
 > [**Columbia University**](https://www.columbia.edu/)
-> - Sept. 2021 -
+> - Sept. 2021 –
 > -*New York city, New York, United States*
 
 > [**Inha University**](http://eng.inha.ac.kr)
@@ -23,6 +23,7 @@
 >- Jan. 2017 – Jun. 2017
 >- Exchange student in Geological Sciences                          
 >- *Austin, Texas, United States*
+
 
 
 ## Research interests
